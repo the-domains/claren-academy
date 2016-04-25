@@ -1,0 +1,28 @@
+name: Claren Academy
+favicon: null
+layout_spectrum: 0.253415219951421
+typography_spectrum: 0.07942919945344329
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.04833067464642227
+  lightness: 0.3141229033935815
+  saturation: 0.5505857893731445
+  rhythmicContrast: 0.09584229253232479
+purpose: []
